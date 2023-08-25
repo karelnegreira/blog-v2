@@ -25,6 +25,10 @@ export default function Home({ posts }) {
           </div>
         </div>
       </div>
+      <div className="w-full bg-transparent">
+            <p className=" bg-transparent text-center text-cyan-50 shadow-inner font-bold pt-8">@2023 The Western Conservador</p>
+            <p className="bg-transparent text-center text-white font-sans pb-4">All rights reserved</p>
+      </div>
     </div>
   );
 }
